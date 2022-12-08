@@ -92,7 +92,7 @@ Library | Attaching Props? | Media Queries? | Global Styles? | Nested Selectors?
 `emotion` | Yes | Yes | Yes | Yes | Yes | Yes | Yes 
 
 ### Stats
-These numbers were pulled on October 18th, 2019.
+These numbers were pulled on December 9th, 2022.
 
 Library | Creation Date | Last Updated (GitHub) | Size | Repo Stars | # of Contributors 
 --- | --- | --- | --- | --- | --- |
