@@ -94,11 +94,10 @@ Library | Attaching Props? | Media Queries? | Global Styles? | Nested Selectors?
 ### Stats
 These numbers were pulled on October 18th, 2019.
 
-Library | Creation Date | Last Updated (GitHub) | Size | Repo Stars | # of Contributors | Community Size (Spectrum)
+Library | Creation Date | Last Updated (GitHub) | Size | Repo Stars | # of Contributors 
 --- | --- | --- | --- | --- | --- | --- |
-[`styled-components`](https://github.com/styled-components/styled-components) | August 16th, 2016 | 8 days ago | ? 14.6kb ? | 26,197 | 252 | [10,113](https://spectrum.chat/styled-components)
-[`emotion`](https://github.com/emotion-js/emotion) | May 27th, 2017 | 6 days ago | ? 8.9kb ? | 9,118 | 184 | [479](https://spectrum.chat/emotion)
-
+[`styled-components`](https://github.com/styled-components/styled-components) | August 16th, 2016 | 7 days ago | ? 3.17MB(12.7kb) ? | 37.9k | 299 
+[`emotion`](https://github.com/emotion-js/emotion) | May 27th, 2017 | 5 days ago | ? 563kb(8.9kb) ? | 15.8k | 298 
 ### Worthy Notes
 
 * `emotion` is [ready](https://community.frontity.org/t/which-one-should-we-use-emotion-vs-styled-components/27/8) for [React Concurrent mode](https://dev.to/pomber/about-react-suspense-and-concurrent-mode-21aj) and it has a smaller bundle size
