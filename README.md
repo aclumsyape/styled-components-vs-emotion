@@ -95,7 +95,7 @@ Library | Attaching Props? | Media Queries? | Global Styles? | Nested Selectors?
 These numbers were pulled on October 18th, 2019.
 
 Library | Creation Date | Last Updated (GitHub) | Size | Repo Stars | # of Contributors 
---- | --- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- |
 [`styled-components`](https://github.com/styled-components/styled-components) | August 16th, 2016 | 7 days ago | ? 3.17MB(12.7kb) ? | 37.9k | 299 
 [`emotion`](https://github.com/emotion-js/emotion) | May 27th, 2017 | 5 days ago | ? 563kb(8.9kb) ? | 15.8k | 298 
 ### Worthy Notes
