@@ -37,48 +37,35 @@ const button = styled.button({
 #### `emotion`
 
 ```javascript
-
 // CSS syntax in tagged template literal
-
 const Button = styled.button`
   padding: 32px;
-  background-color: hotpink;
   font-size: 24px;
-  border-radius: 4px;
-  color: black;
-  font-weight: bold;
   &:hover {
     color: white;
   }
 `
-
 render(<Button>Hey! It works.</Button>)
-
----
-
-render(
-  <h1
-    className={css`
-      font-size: 1.5em;
-      text-align: center;
-      color: palevioletred;
-    `}
-  >
-    Hiya!
-  </h1>
-)
 
 // Object syntax
 const titleStyles = css({
   fontSize: '1.5em',
   textAlign: 'center',
-  color: 'palevioletred'
 })
-
 render(<h1 className={titleStyles}>Hiya!</h1>)
 
+---
+render(
+  <h1
+    className={css`
+      font-size: 1.5em;
+      text-align: center;
+    `}
+  >
+    Hiya!
+  </h1>
+)
 ```
-
 
 ## Comparison
 Here's how the two libraries compare based on features and stats:
