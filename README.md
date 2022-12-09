@@ -73,10 +73,16 @@ Here's how the two libraries compare based on features and stats:
 ### Features - at parity
 This information was taken from the documentation websites.
 
-Library | Attaching Props? | Media Queries? | Global Styles? | Nested Selectors? | Server Side Rendering? | Theming Support? | Composition?
---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-`styled-components` | Yes | Yes| Yes | Yes | Yes | Yes| Yes   
-`emotion` | Yes | Yes | Yes | Yes | Yes | Yes | Yes 
+Library | Attaching Props? | Media Queries? | Global Styles? | Nested Selectors? | Server Side Rendering? | Theming Support? | Composition? | Keyframes
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+`styled-components` | Yes | Yes| Yes | Yes | Yes | Yes| Yes | Yes  
+`emotion` | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes
+
+
+Library | Tagged Template? | Object styles? | Native support? 
+--- | :---: | :---: | :---: |
+`styled-components` | Yes | Yes| Yes 
+`emotion` | Yes | Yes | Yes 
 
 ### Stats
 These numbers were pulled on December 9th, 2022.
